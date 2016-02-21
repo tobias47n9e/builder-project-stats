@@ -1,0 +1,8 @@
+[Plugin]
+Name=Project Stats
+Description=Display statistics of the project and the version control history
+Author=Tobias Schönberg
+Copyright=GPL2 2016
+
+Loader=python3
+Module=project_stats
